@@ -1,0 +1,1 @@
+public class ConnectionReadyListener : BaseEventListener<OnConnectionReady, ConnectionReadyListener> { }
