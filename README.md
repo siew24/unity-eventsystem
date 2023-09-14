@@ -1,0 +1,1 @@
+# Unity Event System w/ `C#`, `ScriptableObject` and `Addressables`
